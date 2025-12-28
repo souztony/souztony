@@ -31,7 +31,6 @@ Meu objetivo é atuar como **Pentester Júnior**, contribuindo com análises té
 - **Pentest**: Nmap, Gobuster, Burp Suite, Metasploit, Nuclei
 - **Linguagens**: Python, Bash
 - **Metodologias**: OWASP Top 10, Recon, Exploração, Pós-Exploração
-- **Plataformas**: Hack The Box, TryHackMe
 
 ---
 
