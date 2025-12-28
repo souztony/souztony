@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Tony Souza
 
 🎯 Pentester Jr focado em Segurança Ofensiva, com prática em ambientes controlados  
-🛡️ Web • Network • Active Directory  
-📍 Brasil
+🛡️ Web • Network • Active Directory
 
 ---
 
@@ -59,7 +58,7 @@ Anotações, payloads e cheatsheets de segurança ofensiva
 ---
 
 ## 🌐 Contato
-- 💼 LinkedIn: https://www.linkedin.com/in//
+- 💼 LinkedIn: https://www.linkedin.com/in/souztony/
 - 💻 GitHub: https://github.com/souztony
 
 ---
