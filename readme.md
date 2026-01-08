@@ -7,7 +7,7 @@
 
 ## 🔐 Sobre mim
 Sou estudante de Segurança da Informação com foco em **Pentest**.  
-Tenho experiência prática em **enumeração, exploração e pós-exploração** através de laboratórios, CTFs e desenvolvimento de scripts próprios.
+Tenho experiência prática em **enumeração, exploração e pós-exploração** através de laboratórios e desenvolvimento de scripts próprios.
 
 Meu objetivo é atuar como **Pentester Júnior**, contribuindo com análises técnicas claras, exploração responsável e relatórios profissionais.
 
