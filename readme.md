@@ -6,7 +6,7 @@
 ---
 
 ## 🔐 Sobre mim
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduação em **Segurança da Informação**. 
+Sou Graduado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduação em **Segurança da Informação**. 
 
 Minha trajetória começou na segurança ofensiva, o que me proporcionou uma base sólida sobre como os sistemas falham e como os dados podem ser expostos. Hoje, foco minha carreira no **Desenvolvimento Fullstack**, utilizando o ecossistema **.NET** e **React** para construir aplicações que não apenas entregam valor ao negócio, mas que são resilientes e seguras por design.
 
