@@ -1,49 +1,60 @@
-# 👋 Olá, eu sou Tony Souza
+# Tony Souza
 
-🎯 **Fullstack Developer Júnior (.NET & React)** | Especialista em Código Seguro  
-🛡️ Unindo o desenvolvimento de software moderno com a mentalidade de Segurança da Informação.
-
----
-
-## 🔐 Sobre mim
-Sou Graduado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduação em **Segurança da Informação**. 
-
-Minha trajetória começou na segurança ofensiva, o que me proporcionou uma base sólida sobre como os sistemas falham e como os dados podem ser expostos. Hoje, foco minha carreira no **Desenvolvimento Fullstack**, utilizando o ecossistema **.NET** e **React** para construir aplicações que não apenas entregam valor ao negócio, mas que são resilientes e seguras por design.
+**Desenvolvedor Fullstack Júnior**
 
 ---
 
-## 🛠️ Tech Stack & Competências
+## 🚀 Sobre mim
 
-### **Desenvolvimento Fullstack**
-- **Backend:** C#, .NET, ASP.NET Core, APIs RESTful.
-- **Frontend:** React, TypeScript, JavaScript, HTML5 e CSS3.
-- **Bancos de Dados:** SQL Server e MySQL.
-- **Qualidade de Software:** Aplicação de princípios SOLID, DRY e KISS.
-- **Ferramentas:** Git, GitHub para controle de versão e colaboração.
-
-### **Diferencial em Segurança (AppSec)**
-- Experiência prática em análise de vulnerabilidades (OWASP Top 10).
-- Implementação de autenticação e proteção de APIs contra falhas comuns de segurança.
-- Foco em escrita de código limpo e manutenível.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente Pós-Graduando em **Segurança da Informação**.
+Foco no desenvolvimento de aplicações web completas, aplicando boas práticas de arquitetura, código limpo e organização em camadas.
 
 ---
 
-## 📂 Projetos em Destaque
+## 🛠️ Competências Técnicas
 
-### 💰 [Controle de Gastos Residenciais](https://github.com/souztony/controle-gastos-residenciais)
-Aplicação Fullstack para gerenciamento financeiro pessoal.
-- **Backend:** API REST desenvolvida em .NET/C# com organização em camadas.
-- **Frontend:** Interface moderna criada com React e TypeScript.
-- **Destaque:** Implementação de CRUD completo com validações e versionamento rigoroso via Git.
+### 💻 Desenvolvimento
+
+* Desenvolvimento de APIs REST
+* Construção de aplicações web Fullstack
+* Integração entre frontend e backend
+* Modelagem e manipulação de banco de dados
+
+### ⚙️ Tecnologias
+
+* C#, .NET, ASP.NET Core
+* React, TypeScript, JavaScript
+* SQL Server e MySQL
+* Git e GitHub
+
+### 🧠 Boas Práticas
+
+* Princípios SOLID
+* Clean Code
+* Organização em camadas
+* Versionamento e controle de código
+
+### 🔐 Segurança Aplicada
+
+* Análise de vulnerabilidades em aplicações web
+* Boas práticas de autenticação e autorização
+* Desenvolvimento com foco em prevenção de falhas
 
 ---
 
-## 📈 Objetivo Profissional
-Atuar como **Fullstack Developer Júnior**, contribuindo no desenvolvimento de produtos reais, escrevendo código de fácil manutenção e evoluindo tecnicamente junto ao time.
+## 📂 Projetos
+
+Neste perfil você encontrará projetos voltados para:
+
+* Aplicações web completas
+* Estruturação de backend escalável
+* Integração frontend/backend
+* Aplicação prática de boas práticas de desenvolvimento
+* Evolução contínua de arquitetura e organização de código
 
 ---
 
-## 🌐 Conecte-se comigo
-- 💼 **LinkedIn:** [linkedin.com/in/souztony/](https://www.linkedin.com/in/souztony/)
-- 📧 **Email:** tonysouz97@gmail.com
-- 💻 **GitHub:** [github.com/souztony](https://github.com/souztony)
+## 🌐 Contato
+
+* 💼 LinkedIn: [https://linkedin.com/in/souztony](https://linkedin.com/in/souztony)
+* 📧 Email: [tonysouz97@gmail.com](mailto:tonysouz97@gmail.com)
